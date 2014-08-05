@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For PlainDAC
+#######################################
+
+#######################################
+# Datatypes  KEYWORD1
+#######################################
+
+PlainDAC KEYWORD1
+~PlainDAC KEYWORD1
+
+#######################################
+# Methods and Functions  KEYWORD2 
+#######################################
+
+AcquireData KEYWORD2
+InitDataVector KEYWORD2
+ReadIntegerData KEYWORD2
+ReadIntegerData KEYWORD2
+ReadDoubleData KEYWORD2
+Revision KEYWORD2
+SetAcquisitionParameters KEYWORD2
+SignedIntToUnsignedByte KEYWORD2
+StartAcquisitionEngine KEYWORD2
+StopAcquisitionEngine KEYWORD2
+UnsignedByteToSignedInt KEYWORD2
+variant KEYWORD2
